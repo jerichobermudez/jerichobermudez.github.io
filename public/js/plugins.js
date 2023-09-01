@@ -159,15 +159,15 @@ $(function () {
     $(".kayo-work").typed({
 
         // strings: ["Front-End Developer / Back-End Developer..."],
-        strings: ["Full Stack Web Developer."],
+        strings: ['Software Engineer | Full Stack Developer.'],
 
-        cursorChar: "",
+        cursorChar: '_',
 
         typeSpeed: 1,
 
         loop: true,
 
-        backSpeed: 50
+        backSpeed: 1
 
     });
 
