@@ -1590,7 +1590,7 @@ body {
   background-color: #3a4a5d;
 }
 .kayo-skills .technical-skills .progress-bar-container .progress.active .progress-bar, .kayo-skills .technical-skills .progress-bar-container .progress .progress-bar.active {
-  transition: all 1100ms ease-in-out;
+  transition: all 2000ms ease-in-out;
 }
 .kayo-skills .technical-skills .progress-bar-container h3 {
   margin: 10px 0 0;
@@ -1598,7 +1598,7 @@ body {
   font-weight: 400;
 }
 .kayo-skills .technical-skills .progress-bar-container .timer {
-  transition: all 1100ms ease-in-out;
+  transition: all 2000ms ease-in-out;
   left: -13px;
   top: 0;
   position: absolute;
